@@ -1,0 +1,43 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
+
+.titulo-centralizado {
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+#centro {
+    text-align: left;
+    margin-top: 40px;
+}
+
+#logo {
+    width: 5%;
+    vertical-align: top;
+}
+
+#roxo {
+    width: 100%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 100%;
+    text-align: left;
+    padding: 20px;
+}
+
+
+.neghro {
+    width: 50%;
+}
+
+.Tópicos {
+    margin-top: 50px;
+}
